@@ -1,6 +1,6 @@
 # TheraRoot - A Professional Network for Therapists 🧠
 
-## Live site: https://theraroot-client.onrender.com/
+## Live site: https://theraroot.net
 _Feel free to explore the live site! Registration is open._
 
 Therapists lack a dedicated, secure online space for professional connection and collaboration, distinct from public social media. TheraRoot solves this by providing a full-stack MERN web application designed as a private network exclusively for mental health professionals. It offers a dedicated space to connect, collaborate, share resources, and build a supportive professional community.
